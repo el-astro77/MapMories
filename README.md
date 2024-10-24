@@ -1,1 +1,1 @@
-# MapMories
+# Fashion Moodboard AI
